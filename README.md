@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference Commit:**  
+https://github.com/ajgoralczyk/react_spreadsheet/commit/0988839174963764dadfde2117b84c0a08820476
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 # React Excel Spreadsheet
 
 ### Requirements
